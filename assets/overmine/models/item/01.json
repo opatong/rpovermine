@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "overmine:item/01",
+		"particle": "overmine:item/01"
+	},
+	"elements": [
+		{
+			"from": [-1, 0, 0],
+			"to": [8, 8, 0],
+			"faces": {
+				"north": {"uv": [0, 0, 9, 8], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 8], "texture": "#0"},
+				"south": {"uv": [1, 0, 9, 8], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 8], "texture": "#0"},
+				"up": {"uv": [0, 0, 8, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 8, 0], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [14.75, 2.75, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}
